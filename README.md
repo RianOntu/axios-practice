@@ -52,6 +52,10 @@ Please follow the below instructions to run this branch in your machine:
    ```sh
    npm run dev
    ```
+7. Just run this command
+   ```sh
+   npm run server
+   ```
 
 <br>
 
